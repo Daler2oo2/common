@@ -1,0 +1,14 @@
+{
+    "name": "hacker/common",
+    "description": "This is package for microservices",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Daler"
+        }
+    ],
+    "require": {
+        "laravel/framework": "^7.0"
+    }
+}
